@@ -1,2 +1,11 @@
-
+.container
+{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.items
+{
+    padding: 5px;;
+}
 /* Your CSS Code here. */
